@@ -52,7 +52,7 @@ The CNN model architecture used for classification includes:
 The training and validation results obtained during model training are as follows:
 
 - Epoch 1/10
-- 7/7 ━━━━━━━━━━━━━━━━━━━━ 8s 734ms/step - **accuracy**: 0.4735 - **loss**: 1.6541 - **val_accuracy**: 0.5000 - **val_loss**: 0.6943
+7/7 ━━━━━━━━━━━━━━━━━━━━ 8s 734ms/step - **accuracy**: 0.4735 - **loss**: 1.6541 - **val_accuracy**: 0.5000 - **val_loss**: 0.6943
 
 - Epoch 2/10
 - 7/7 ━━━━━━━━━━━━━━━━━━━━ 5s 630ms/step - **accuracy**: 0.5038 - **loss**: 0.7091 - **val_accuracy**: 0.1875 - **val_loss**: 0.6931
@@ -82,7 +82,7 @@ The training and validation results obtained during model training are as follow
 - 7/7 ━━━━━━━━━━━━━━━━━━━━ 5s 667ms/step - **accuracy**: 0.8902 - **loss**: 0.2807 - **val_accuracy**: 1.0000 - **val_loss**: 0.2314
 
 
-These results provide insights into the model's performance during training and validation epochs. 
-Need to futher analyze and interpret these results to evaluate the effectiveness of your model. 
-Update the paths and filenames according to your project.
+- These results provide insights into the model's performance during training and validation epochs. 
+- Need to futher analyze and interpret these results to evaluate the effectiveness of your model. 
+- Update the paths and filenames according to your project.
 
