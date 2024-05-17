@@ -51,12 +51,12 @@ The CNN model architecture used for classification includes:
 
 The training and validation results obtained during model training are as follows:
 
-Epoch 1/10
-7/7 ━━━━━━━━━━━━━━━━━━━━ 8s 734ms/step - accuracy: 0.4735 - loss: 1.6541 - val_accuracy: 0.5000 - val_loss: 0.6943
-Epoch 2/10
-7/7 ━━━━━━━━━━━━━━━━━━━━ 5s 630ms/step - accuracy: 0.5038 - loss: 0.7091 - val_accuracy: 0.1875 - val_loss: 0.6931
-Epoch 3/10
-7/7 ━━━━━━━━━━━━━━━━━━━━ 5s 653ms/step - accuracy: 0.6329 - loss: 0.6687 - val_accuracy: 0.6250 - val_loss: 0.6777
+-Epoch 1/10
+-7/7 ━━━━━━━━━━━━━━━━━━━━ 8s 734ms/step - accuracy: 0.4735 - loss: 1.6541 - val_accuracy: 0.5000 - val_loss: 0.6943
+-Epoch 2/10
+-7/7 ━━━━━━━━━━━━━━━━━━━━ 5s 630ms/step - accuracy: 0.5038 - loss: 0.7091 - val_accuracy: 0.1875 - val_loss: 0.6931
+-Epoch 3/10
+-7/7 ━━━━━━━━━━━━━━━━━━━━ 5s 653ms/step - accuracy: 0.6329 - loss: 0.6687 - val_accuracy: 0.6250 - val_loss: 0.6777
 Epoch 4/10
 7/7 ━━━━━━━━━━━━━━━━━━━━ 5s 652ms/step - accuracy: 0.7360 - loss: 0.5809 - val_accuracy: 0.8750 - val_loss: 0.5431
 Epoch 5/10
